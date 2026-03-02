@@ -1,0 +1,64 @@
+.navbarclass{
+    @apply bg-blue-300 flex items-center justify-between rounded-lg p-3 m-2 text-violet-700
+}
+
+.hoverclass{
+    @apply flex gap-2
+}
+
+.logo{
+    @apply bg-gray-200 rounded p-1
+}
+
+.home{
+    @apply bg-rose-200 rounded-lg p-2
+}
+
+.about{
+    @apply bg-rose-200 rounded-lg p-2
+}
+
+.blog{
+    @apply bg-rose-200 rounded-lg p-2
+}
+
+.contact{
+    @apply bg-rose-200 rounded-lg p-2
+}
+
+.heromain{
+    @apply bg-slate-200 p-2
+}
+
+.hero1{
+    @apply font-bold text-center text-red-700 text-2xl m-2
+}
+
+.hero2{
+    @apply text-center text-fuchsia-500 pb-3
+}
+
+.hero3{
+    @apply bg-sky-300 rounded text-blue-500 p-2 hover:bg-sky-400
+}
+
+.blogcardbutton{
+    @apply bg-red-300 rounded text-blue-500 p-1 pb-1.5 mt-2 hover:bg-red-400
+}
+
+.footer{
+   @apply bg-stone-300 p-2
+}
+
+.sociallinks{
+    @apply flex items-center gap-2 text-red-500
+}
+
+.instagram{
+    @apply hover:text-violet-600 cursor-pointer
+}
+
+
+.copyright{
+    @apply text-pink-700
+}
